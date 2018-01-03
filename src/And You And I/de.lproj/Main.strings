@@ -1,0 +1,111 @@
+
+/* Class = "UILabel"; text = "HELP"; ObjectID = "1xm-zO-ApQ"; */
+"1xm-zO-ApQ.text" = "HILFE";
+
+/* Class = "UILabel"; text = "Use iCloud"; ObjectID = "4JC-Zr-2qn"; */
+"4JC-Zr-2qn.text" = "Benutze iCloud";
+
+/* Class = "UINavigationItem"; title = "Introduction"; ObjectID = "4cr-fm-HMA"; */
+"4cr-fm-HMA.title" = "Einführung";
+
+/* Class = "UILabel"; text = "Key size %d bit"; ObjectID = "5Bw-sv-VX3"; */
+"5Bw-sv-VX3.text" = "Key size...";
+
+/* Class = "UINavigationItem"; title = "Password..."; ObjectID = "5lR-UK-NIR"; */
+"5lR-UK-NIR.title" = "Password...";
+
+/* Class = "UILabel"; text = "A higher iterations value derives a better AES128 key from your password. All devices sharing your iCloud account must use the same value. A re-encryption is mandatory."; ObjectID = "7dY-Qb-PDT"; */
+"7dY-Qb-PDT.text" = "Mehr Iterationen leiten bessere AES128-Schlüssel vom Passwort ab. Alle Geräte müssen den selben Wert konfiguriert haben. Es muss neu verschlüsselt werden.";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, ..."; ObjectID = "8Bw-9t-mCT"; */
+"8Bw-9t-mCT.text" = "Lorem ipsum dolor sit er elit lamet, ...";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "8yL-7k-X8l"; */
+"8yL-7k-X8l.placeholder" = "Vorname";
+
+/* Class = "UINavigationItem"; title = "And You And I"; ObjectID = "9Nj-UC-DMd"; */
+"9Nj-UC-DMd.title" = "And You And I";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "CtX-ms-TqO"; */
+"CtX-ms-TqO.title" = "Einstellungen";
+
+/* Class = "UILabel"; text = "ENCRYPTION"; ObjectID = "Dnq-Do-LLK"; */
+"Dnq-Do-LLK.text" = "VERSCHLÜSSELUNG";
+
+/* Class = "UILabel"; text = "Enter the password..."; ObjectID = "Fm4-uT-8X2"; */
+"Fm4-uT-8X2.text" = "Enter the password...";
+
+/* Class = "UILabel"; text = "Log private details"; ObjectID = "JJ4-wo-A9z"; */
+"JJ4-wo-A9z.text" = "Private Details loggen";
+
+/* Class = "UILabel"; text = "LOGGING"; ObjectID = "KnH-ZJ-m2Z"; */
+"KnH-ZJ-m2Z.text" = "LOGGING";
+
+/* Class = "UIButton"; normalTitle = "Open home page"; ObjectID = "NK8-FT-7V5"; */
+"NK8-FT-7V5.normalTitle" = "Öffne Home Page";
+
+/* Class = "UIButton"; normalTitle = "Change password and re-encrypt"; ObjectID = "Npl-Bg-9U2"; */
+"Npl-Bg-9U2.normalTitle" = "Ändere Passwort und verschlüssele neu";
+
+/* Class = "UILabel"; text = "Trace into files"; ObjectID = "PJe-4r-kYs"; */
+"PJe-4r-kYs.text" = "In Dateien tracen";
+
+/* Class = "UILabel"; text = "Show archives"; ObjectID = "PzY-s0-7rb"; */
+"PzY-s0-7rb.text" = "Archive anzeigen";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Qgy-He-Liy"; */
+"Qgy-He-Liy.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Delete iCloud files"; ObjectID = "SfD-eA-pDK"; */
+"SfD-eA-pDK.normalTitle" = "Lösche iCloud-Dateien";
+
+/* Class = "UITextField"; placeholder = "E-Mail Address"; ObjectID = "SqB-Wh-QS9"; */
+"SqB-Wh-QS9.placeholder" = "E-Mail-Adresse";
+
+/* Class = "UILabel"; text = "Copyright Ⓒ 2013-2017 by Stephan André.\nDesigned and assembled in Hessen, Germany."; ObjectID = "VEg-md-iIX"; */
+"VEg-md-iIX.text" = "Copyright Ⓒ 2013-2017 by Stephan André.\nDesigned and assembled in Hessen, Germany.";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Wtq-dh-643"; */
+"Wtq-dh-643.placeholder" = "Passwort";
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "ah2-H7-0r8"; */
+"ah2-H7-0r8.placeholder" = "Ort";
+
+/* Class = "UIButton"; normalTitle = "Show introduction"; ObjectID = "be4-AK-6cO"; */
+"be4-AK-6cO.normalTitle" = "Einführung anzeigen";
+
+/* Class = "UILabel"; text = "count"; ObjectID = "btc-J0-v5S"; */
+"btc-J0-v5S.text" = "count";
+
+/* Class = "UILabel"; text = "Always Touch ID or password"; ObjectID = "cEN-dh-PG2"; */
+"cEN-dh-PG2.text" = "Immer Touch ID oder Passwort";
+
+/* Class = "UINavigationItem"; title = "New Identity"; ObjectID = "jIM-bl-28M"; */
+"jIM-bl-28M.title" = "Neue Identität";
+
+/* Class = "UINavigationItem"; title = "Log Book"; ObjectID = "jdZ-yo-sfb"; */
+"jdZ-yo-sfb.title" = "Logbuch";
+
+/* Class = "UILabel"; text = "S/MIME"; ObjectID = "nwg-Mg-oGw"; */
+"nwg-Mg-oGw.text" = "S/MIME";
+
+/* Class = "UILabel"; text = "DOCUMENTS"; ObjectID = "q3O-t3-14e"; */
+"q3O-t3-14e.text" = "DOKUMENTE";
+
+/* Class = "UILabel"; text = "text"; ObjectID = "rl7-vQ-bVI"; */
+"rl7-vQ-bVI.text" = "text";
+
+/* Class = "UIButton"; normalTitle = "Delete local files"; ObjectID = "scE-TR-rrT"; */
+"scE-TR-rrT.normalTitle" = "Lokale Dateien löschen";
+
+/* Class = "UIButton"; normalTitle = "Show log book"; ObjectID = "t4x-Oh-hvl"; */
+"t4x-Oh-hvl.normalTitle" = "Logbuch anzeigen";
+
+/* Class = "UILabel"; text = "With %d iterations"; ObjectID = "xT0-L9-wTD"; */
+"xT0-L9-wTD.text" = "Mit %d Iterationen";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "xrj-fN-HiB"; */
+"xrj-fN-HiB.placeholder" = "Nachname";
+
+/* Class = "UITextField"; placeholder = "Confirmation"; ObjectID = "zl0-rH-PdN"; */
+"zl0-rH-PdN.placeholder" = "Bestätigung";

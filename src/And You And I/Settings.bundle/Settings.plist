@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>DefaultValue</key>
+			<true/>
+			<key>Key</key>
+			<string>prefUseICloud</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<true/>
+			<key>Key</key>
+			<string>prefAppLock</string>
+		</dict>
+        <dict>
+            <key>DefaultValue</key>
+            <integer>3072</integer>
+            <key>Key</key>
+            <string>prefKeySize</string>
+        </dict>
+        <dict>
+            <key>DefaultValue</key>
+            <integer>10</integer>
+            <key>Key</key>
+            <string>prefIterations</string>
+        </dict>
+		<dict>
+			<key>DefaultValue</key>
+			<false/>
+			<key>Key</key>
+			<string>prefShowArchives</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<false/>
+			<key>Key</key>
+			<string>prefLogDetails</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<false/>
+			<key>Key</key>
+			<string>prefTraceIntoFiles</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<true/>
+			<key>Key</key>
+			<string>prefTutorialOnStartup</string>
+		</dict>
+	</array>
+</dict>
+</plist>

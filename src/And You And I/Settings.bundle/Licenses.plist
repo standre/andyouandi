@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>File</key>
+			<string>License.OpenSSL</string>
+			<key>Title</key>
+			<string>OpenSSL</string>
+			<key>Type</key>
+			<string>PSChildPaneSpecifier</string>
+		</dict>
+		<dict>
+			<key>File</key>
+			<string>License.iCloudDocumentSync</string>
+			<key>Title</key>
+			<string>iCloudDocumentSync</string>
+			<key>Type</key>
+			<string>PSChildPaneSpecifier</string>
+		</dict>
+		<dict>
+			<key>File</key>
+			<string>License.SWTableViewCell</string>
+			<key>Title</key>
+			<string>SWTableViewCell</string>
+			<key>Type</key>
+			<string>PSChildPaneSpecifier</string>
+		</dict>
+		<dict>
+			<key>File</key>
+			<string>License.ToastNotificationiOS</string>
+			<key>Title</key>
+			<string>ToastNotificationiOS</string>
+			<key>Type</key>
+			<string>PSChildPaneSpecifier</string>
+		</dict>
+        <dict>
+            <key>File</key>
+            <string>License.SuperGenPass</string>
+            <key>Title</key>
+            <string>SuperGenPass</string>
+            <key>Type</key>
+            <string>PSChildPaneSpecifier</string>
+        </dict>
+	</array>
+</dict>
+</plist>

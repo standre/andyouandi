@@ -1,0 +1,3 @@
+/* Localized versions of Info.plist keys */
+
+"NSContactsUsageDescription"="to select identities for new certificates, and to take over names, mail addresses, and cities.";
