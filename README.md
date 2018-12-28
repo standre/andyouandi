@@ -17,14 +17,8 @@ Only your own device and your own iCloud account are used. No other services or 
 
 A password generator with pattern lock style master password interface. Based on the popular SuperGenPass web tool, you can derive all passwords from the web address, mail address, or any other identifier and your master password, using MD5 or HMAC SHA3-512 algorithms. All operations are done locally.
 
-## This free app is powered by your feedback:
+## This is the end.
 
-If you like it, add your review in the App Store. If not or in case of technical problems, visit my web site and look for support, or send me a mail.
+And You And I is not maintained anymore, and was removed from the App Store in December 2018.
 
-## Install the app:
 
-https://itunes.apple.com/us/app/and-you-and-i/id717480794?l=de&ls=1&mt=8
-
-## Get some support:
-
-https://andyouandi.eu
